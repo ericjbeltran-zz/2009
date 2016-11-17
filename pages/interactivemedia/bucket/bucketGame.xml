@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<bucket>
+	<title>BUCKET GAME</title>
+	<directions>Start the game by clicking the "Start" button below. Then place the basketball in the appropriate basketball hoop. When you are ready to move on to the next basketball, click the "Next" button.</directions>
+	<totalbuckets>4</totalbuckets>
+	<bucketname>Mexico^France^Japan^India</bucketname>
+	<totalballs>9</totalballs>
+	<balls>	
+		<balls>		
+			<question>National language is spanish.</question>
+			<column>Mexico</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Is a part of North America.</question>
+			<column>Mexico</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Capital is New Delhi.</question>
+			<column>India</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Member of the European Union.</question>
+			<column>France</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Country is an island.</question>
+			<column>Japan</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>	
+		<balls>		
+			<question>National language is French.</question>
+			<column>France</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Capital is Tokyo.</question>
+			<column>Japan</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Capital is Mexico City.</question>
+			<column>Mexico</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Capital is Paris.</question>
+			<column>France</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		
+	<balls>		
+			<question>Image/img3.gif</question>
+			<column>Mexico</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls></balls>
+	<success>Nice job! You got all of the answers correct!</success>
+	<failure>Done! Click the Play Again button for another try.</failure>
+	<copyright>© 2009</copyright>
+</bucket>

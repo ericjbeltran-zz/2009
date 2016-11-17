@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<bucket>
+	<title>BUCKET GAME</title>
+	<directions>Start the game by clicking the "Start" button below. Then place the basketball in the appropriate basketball hoop. When you are ready to move on to the next basketball, click the "Next" button.</directions>
+	<totalbuckets>3</totalbuckets>
+	<bucketname>Ages 5 - 10^Ages 15 - 20^Ages 30 - 35^Ages 40 - 45</bucketname>
+	<totalballs>10</totalballs>
+	<balls>	
+		<balls>		
+			<question>Image/img1.gif</question>
+			<column>Ages 5 - 10</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Image/img4.jpg</question>
+			<column>Ages 5 - 10</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>A talking stuffed animal toy</question>
+			<column>Ages 5 - 10</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>A movie about students graduating from high school</question>
+			<column>Ages 15 - 20</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>A magazine for parents</question>
+			<column>Ages 30 - 35</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>	
+		<balls>		
+			<question>A G-rated cartoon movie</question>
+			<column>Ages 5 - 10</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>A career-planning guide</question>
+			<column>Ages 15 - 20</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>A guide to buying a house</question>
+			<column>Ages 30 - 35</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Image/img2.gif</question>
+			<column>Ages 5 - 10</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		<balls>		
+			<question>Image/img3.gif</question>
+			<column>Ages 5 - 10</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls>
+		
+	<balls>		
+			<question>Image/img3.gif</question>
+			<column>Ages 5 - 10</column>
+			<correctFeedback>Excellent! That is correct!</correctFeedback>
+			<incorrectFeedback>This is not the correct answer.</incorrectFeedback>
+		</balls></balls>
+	<success>Nice job! You got all of the answers correct!</success>
+	<failure>Done! Click the Play Again button for another try.</failure>
+	<copyright>© 2009 KC Distance Learning</copyright>
+</bucket>

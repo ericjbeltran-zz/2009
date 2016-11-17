@@ -1,0 +1,100 @@
+@charset "UTF-8";
+/* CSS Document */
+
+p#cross-links, p#valid { text-align: center }
+
+p#cross-links { border-bottom: 1px solid #ccc; margin-bottom: 30px; padding-bottom: 30px }
+
+
+
+.stripViewer .panelContainer .panel ul {
+	text-align: left;
+	margin: 0 15px 0 30px;
+}
+
+
+
+/* These 2 lines specify style applied while slider is loading */
+.csw {width: 550px; height: 600px; background: #fff; display: none;}
+.csw .loading {margin: 200px 0 300px 0; text-align: center}
+
+.stripViewer { /* This is the viewing window */
+	position: relative;
+	overflow: hidden; 
+	border: 2px; /* this is the border. should have the same value for the links */
+
+	width: 550px; /* Also specified in  .stripViewer .panelContainer .panel  below */
+	height: 525px;
+	clear: both;
+	background: #fff;
+}
+
+.stripViewer .panelContainer { /* This is the big long container used to house your end-to-end divs. Width is calculated and specified by the JS  */
+	position: relative;
+	left: 0; top: 0;
+	width: 550px;
+	list-style-type: none;
+	/* -moz-user-select: none; // This breaks CSS validation but stops accidental (and intentional - beware) panel highlighting in Firefox. Some people might find this useful, crazy fools. */
+}
+
+.stripViewer .panelContainer .panel { /* Each panel is arranged end-to-end */
+	float:left;
+	height: 100%;
+	position: relative;
+	width: 550px; /* Also specified in  .stripViewer  above */
+}
+
+.stripViewer .panelContainer .panel .wrapper { /* Wrapper to give some padding in the panels, without messing with existing panel width */
+	padding: 0;
+}
+
+.stripNav { /* This is the div to hold your nav (the UL generated at run time) */
+display: block;
+}
+
+.stripNav ul { /* The auto-generated set of links */
+	list-style: none;
+}
+
+.stripNav ul li {
+	float: left;
+	margin-right: 1px; /* If you change this, be sure to adjust the initial value of navWidth in coda-slider.1.1.1.js */
+}
+
+.stripNav a { /* The nav links */
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 32px;
+	background: #cccccc;
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	padding: 0 15px;
+}
+.stripNav a:link {
+color: #00FF00;
+}
+
+.stripNav li a:hover {
+	background: #000033;
+	color: #cccccc;
+}
+
+
+.stripNav li a.current {
+	background: #777777;
+	color: #fff;
+}
+
+.stripNavL, .stripNavR { /* The left and right arrows */
+	position: absolute;
+	display:hidden;
+	top: 230px;
+	text-indent: -9000em;
+}
+
+body {
+	overflow: hidden;
+}
+

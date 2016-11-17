@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<title>Alien Angles</title>	
+	<directions><![CDATA[Start the game by clicking the "Start" button below. You will be given an angle where an alien is floating. In order to save the alien, you must estimate the correct angle within 5 degrees. Use the slider bar to set the correct angle. When you are finished, click the "Check" button to check your accuracy.]]></directions>	
+	<totalQuestions>10</totalQuestions>
+	<mainContent>
+		<item>
+			<question>There's an alien floating at 91</question>
+			<degree>91.5</degree>
+			<feedback correct="y">You got one!Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n"> You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+		
+		<item>	
+			<question>There's an alien floating at 143</question>
+			<degree>143</degree>
+			<feedback correct="y">You got one!Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n">You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+		<item>	
+			<question>There's an alien floating at 41</question>
+			<degree>41</degree>
+			<feedback correct="y">You got one! Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n">You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+		<item>	
+			<question>There's an alien floating at 106</question>
+			<degree>106</degree>
+			<feedback correct="y">You got one! Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n">You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+		<item>	
+			<question>There's an alien floating at 10</question>
+			<degree>10</degree>
+			<feedback correct="y">You got one! Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n">You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+		<item>	
+			<question>There's an alien floating at 81</question>
+			<degree>81</degree>
+			<feedback correct="y">You got one! Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n">You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+		<item>	
+			<question>There's an alien floating at 32</question>
+			<degree>32</degree>
+			<feedback correct="y">You got one! Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n">You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+		<item>	
+			<question>There's an alien floating at 138</question>
+			<degree>138</degree>
+			<feedback correct="y">You got one! Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n">You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+		<item>	
+			<question>There's an alien floating at 24</question>
+			<degree>24</degree>
+			<feedback correct="y">You got one! Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n">You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+		<item>
+			<question>There's an alien floating at 130</question>
+			<degree>130</degree>
+			<feedback correct="y">You got one! Hit the Next button to find another alien.</feedback>
+			<feedback Incorrect="n">You missed him. Hit the Next button to find another alien.</feedback>
+		</item>
+	</mainContent>	
+		
+	<finalfeedback correct="y">Nice job! You got all of the answers correct!</finalfeedback>
+	<feedback Incorrect="n">Done! Click the Replay button for another try.</feedback>
+	<copyright>© 2009</copyright>
+
+</items>
+	

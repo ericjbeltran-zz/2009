@@ -1,0 +1,15 @@
+<icons>
+
+<icon image="icon1.png" tooltip="Photography" windowid="photography" />
+
+<icon image="icon2.png" tooltip="Video Production" windowid="videoproduction" />
+
+<icon image="icon3.png" tooltip="Interactive Media" windowid="interactivemedia" />
+
+<icon image="icon4.png" tooltip="Contact" windowid="contact" />
+
+<icon image="icon5.png" tooltip="Graphic Design" windowid="graphicdesign" />
+
+<icon image="icon6.png" tooltip="Resume" windowid="resume" />
+
+</icons>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0"?>
+<memory>
+	<title><![CDATA[<font size = "36"><b>Memory</b></font>]]></title>
+	<directions>Start the activity by clicking the "Start" button below. Click on a tile to flip it over, then click another tile. Correct matches will have green checkmarks and will remain flipped. Incorrect matches will have red x's and will flip back over. Additional feedback will appear along with your number of pairs after you match two tiles correctly.</directions>
+	<totalTiles>16</totalTiles>	
+	<tiles>	
+		<tile>
+			<label>1</label>
+			<card>image/amoeba.jpg</card>
+			<feedback>image/img1.gif</feedback>
+		</tile>	
+		<tile>
+			<label>2</label>
+			<card>image/design.jpg</card>
+			<feedback>image/img2.gif</feedback>
+		</tile>	
+		<tile>
+			<label>3</label>
+			<card>3</card>
+			<feedback>feedback3</feedback>
+		</tile>	
+		<tile>
+			<label>4</label>
+			<card>4</card>
+			<feedback>feedback4</feedback>
+		</tile>	
+		<tile>
+			<label>5</label>
+			<card>5</card>
+			<feedback>feedback5</feedback>
+		</tile>	
+		<tile>
+			<label>6</label>
+			<card>6</card>
+			<feedback>feedback6</feedback>
+		</tile>	
+		<tile>
+			<label>7</label>
+			<card>7</card>
+			<feedback>feedback7</feedback>
+		</tile>	
+		<tile>
+			<label>8</label>
+			<card>8</card>
+			<feedback>feedback8</feedback>
+		</tile>
+		<tile>
+			<label>1</label>
+			<card><![CDATA[<font size = "14">Amoeba</font>]]></card>
+		</tile>
+		<tile>
+			<label>2</label>
+			<card>dos</card>
+		</tile>
+		<tile>
+			<label>3</label>
+			<card>tres</card>
+		</tile>
+		<tile>
+			<label>4</label>
+			<card>quatro</card>
+		</tile>
+		<tile>
+			<label>5</label>
+			<card>cinco</card>
+		</tile>
+		<tile>
+			<label>6</label>
+			<card>seis</card>
+		</tile>
+		<tile>
+			<label>7</label>
+			<card>siete</card>
+		</tile>
+		<tile>
+			<label>8</label>
+			<card>ocho</card>
+		</tile>
+	</tiles>
+	<success>Good job!</success>
+	<copyright>© 2009 KC Distance Learning</copyright>
+</memory>

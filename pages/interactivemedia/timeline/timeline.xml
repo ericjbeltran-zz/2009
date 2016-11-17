@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Timeline>
+	<title>Timeline</title>
+	<directions>Start the activity by clicking the "Start" button below. Click on a time span at the bottom of the screen to view information about that time period. Roll over the right arrow to move forward in time and the left arrow to move back in time.</directions>
+	<totalDatas>10</totalDatas>
+	<data>
+		<data1>
+			<image>image/truman.jpg</image>  
+			<date>1945 - 1953</date>  
+			<name>Harry S. Truman</name>
+			<titleDate>1945 - 1953</titleDate> 
+			<content>Truman was the thirty-third President of the United States. As the thirty-fourth vice president, he succeeded Franklin D. Roosevelt, who died fewer than three months after he began his fourth term. During World War I Truman served as an artillery officer. After the war he became part of the political machine of Tom Pendergast and was elected a county judge in Missouri and eventually a United States Senator. After he gained national prominence as head of the wartime Truman Committee, Truman replaced vice president Henry A. Wallace as Roosevelt's running mate in 1944.</content>
+			<audio>audio/truman.mp3</audio>
+		</data1>
+		
+		<data1>
+			<image>image/Eisenhower.jpg</image>  
+			<date>1953 - 1961</date>  
+			<name>Dwight David Eisenhower</name>
+			<titleDate>1953 - 1961</titleDate> 
+			<content>Eisenhover was President of the United States from 1953 until 1961 and a five-star general in the United States Army. During the Second World War, he served as Supreme Commander of the Allied forces in Europe, with responsibility for planning and supervising the successful invasion of France and Germany in 1944–45. In 1951, he became the first supreme commander of NATO.</content>
+			<audio>audio/Eisenhower.mp3</audio>
+		</data1>
+		
+		<data1>
+			<image>image/Kennedy.jpg</image>  
+			<date>1961 - 1963</date>  
+			<name>John Fitzgerald Kennedy</name>
+			<titleDate>1961 - 1963</titleDate> 
+			<content>Kennedy, often referred to by his initials JFK, was the thirty-fifth President of the United States, serving from 1961 until his assassination in 1963. After Kennedy's military service as commander of the Motor Torpedo Boat PT-109 during World War II in the South Pacific, his aspirations turned political, with the encouragement and grooming of his father, Joseph P. Kennedy, Sr. Kennedy represented the state of Massachusetts in the U.S. House of Representatives from 1947 to 1953 as a Democrat, and in the U.S. Senate from 1953 until 1960.</content>
+			<audio></audio>
+		</data1>
+		
+		<data1>
+			<image>image/Lbj.jpg</image>  
+			<date>1963 - 1969</date>  
+			<name>Lyndon Baines Johnson</name>
+			<titleDate>1963 - 1969</titleDate> 
+			<content>Johnson, often referred to as LBJ, was the thirty-sixth President of the United States (1963-1969). He was also the thirty-seventh Vice President of the United States (1961-1963). A Democrat, Johnson succeeded to the presidency following the assassination of President John F. Kennedy, and after completing Kennedy's term was elected President in his own right in a landslide victory in the 1964 Presidential election.</content>
+			<audio></audio>
+		</data1>
+		
+		<data1>
+			<image>image/Nixon.jpg</image>  
+			<date>1969 - 1974</date>  
+			<name>Richard Milhous Nixon</name>
+			<titleDate>1969 - 1974</titleDate> 
+			<content>Nixon was the thirty-seventh president of the United States (1969–1974), and the only president to ever resign from office. He was also the thirty-sixth Vice President of the United States (1953–1961).</content>
+			<audio></audio>
+		</data1>
+		
+		<data1>
+			<image>image/Ford.jpg</image>  
+			<date>1974 - 1976</date>  
+			<name>Gerald Rudolph Ford, Jr.</name>
+			<titleDate>1974 - 1976</titleDate> 
+			<content>Ford was the thirty-eighth President of the United States, serving from 1974 to 1977, and the fortieth Vice President of the United States serving from 1973 to 1974. He was the first person appointed to the vice-presidency under the terms of the 25th Amendment, and became President upon Richard Nixon's resignation on August 9, 1974. Ford was the fifth U.S. President never to have been elected to that position, and the only one never to have won any national election. Currently, he is also the longest-lived president in U.S. history, living to age 93.</content>
+			<audio></audio>
+		</data1>
+		
+		<data1>
+			<image>image/Carter.jpg</image>  
+			<date>1977 - 1981</date>  
+			<name>James Earl Carter Jr.</name>
+			<titleDate>1977 - 1981</titleDate> 
+			<content>Jimmy Carter was the thirty-ninth President of the United States, serving from 1977 to 1981, and the recipient of the 2002 Nobel Peace Prize. Prior to becoming president, Carter served two terms in the Georgia Senate and as the 76th Governor of Georgia, from 1971 to 1975.As president, Carter created two new cabinet-level departments: the Department of Energy and the Department of Education. He established a national energy policy that included conservation, price decontrol, and new technology.</content>
+			<audio></audio>
+		</data1>
+		
+		<data1>
+			<image>image/Reagan.jpg</image>  
+			<date>1981 - 1989</date>  
+			<name>Ronald Wilson Reagan</name>
+			<titleDate>1981 - 1989</titleDate> 
+			<content>Reagan was the 40th President of the United States (1981–1989) and the 33rd Governor of California (1967–1975). Born in Illinois, Reagan moved to Los Angeles, California in the 1930s, where he was an actor, president of the Screen Actors Guild (SAG), and a spokesman for General Electric. His start in politics occurred during his work for GE; originally a member of the Democratic Party, he switched to the Republican Party in 1962. After delivering a rousing speech in support of Barry Goldwater's presidential candidacy in 1964, he was persuaded to seek the California governorship, winning two years later and again in 1970.</content>
+			<audio></audio>
+		</data1>
+		
+		<data1>
+			<image>image/Bush.jpg</image>  
+			<date>1989 - 1993</date>  
+			<name>George Herbert Walker Bush</name>
+			<titleDate>1989 - 1993</titleDate> 
+			<content>Bush (born June 12, 1924) served as the forty-first President of the United States from 1989 to 1993. Bush held a multitude of political positions prior to his presidency, including Vice President of the United States in the administration of Ronald Reagan (1981–1989) and director of the CIA.</content>
+			<audio></audio>
+		</data1>
+		
+		<data1>
+			<image>image/Clinton.jpg</image>  
+			<date>1993 - 2001</date>  
+			<name>William Jefferson Clinton</name>
+			<titleDate>1993 - 2001</titleDate> 
+			<content>Bill Clinton served as the forty-second President of the United States from 1993 to 2001. He was the fifteenth Democrat elected to that office. He was the third-youngest president, only older than Theodore Roosevelt and John F. Kennedy. He became president at the end of the Cold War, and as he was born in the period after World War II, is known as the first Baby Boomer president.
+	Clinton was described as a New Democrat and was largely known for the Third Way philosophy of governance that came to epitomize his two terms as president.</content>
+			<audio></audio>
+		</data1>
+	</data>
+	
+	<copyright>© 2009</copyright>
+</Timeline>

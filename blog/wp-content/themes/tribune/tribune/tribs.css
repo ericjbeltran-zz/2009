@@ -1,0 +1,27 @@
+.about{
+
+	padding: 0 0 5px 0;
+
+	}
+
+.about a{
+	color: #425200;
+}
+
+.about p.text{
+	padding: 5px 5px ;
+	font-family: Georgia,century gothic, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 18px;
+	color: #111;
+	margin:0px 0px;
+	float:left;
+}
+
+.about img.avatar{
+	float: left;
+	margin: 0px 10px 10px 0;
+	background:#F7F1EE;
+	padding:5px 5px;
+}
+

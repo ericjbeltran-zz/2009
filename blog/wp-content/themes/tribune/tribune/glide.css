@@ -1,0 +1,196 @@
+#glidercontent{
+	margin:0px 0 5px 0px;
+	font-family:Georgia,Century gothic, Arial,Tahoma,sans-serif;
+}
+
+.glidecontentwrapper{
+	position: relative; /* Do not change this value */
+	width: 670px;
+	height: 300px; /* Set height to be able to contain height of largest content shown*/
+	overflow: hidden;
+	margin:0px 0px 0px 0px;
+	background:url(images/tgb.jpg) repeat-y;
+	}
+
+.glidecontent{ /*style for each glide content DIV within wrapper.*/
+	position:absolute; /* Do not change this value */
+	padding:0px 10px 0px 10px;
+	width:640px;
+	color:#fff;
+	margin:0px 0px;
+	height: 230px;
+	background:#ec03d9 url(images/minibg.pg) no -repeat;
+	overflow:hidden;
+	float:left;
+}
+.glidemeta h2{
+	margin:5px 0px 5px 0px;
+        padding:5px 0px;
+	font-size:18px;
+	font-weight:bold;
+}
+.glidemeta h2 a:link, .glidemeta h2 a:visited{
+	color:#fff;
+}
+
+.glidemeta{
+height: 80px;
+width: 650px;
+padding:0px 5px 5px 5px;
+position:absolute;
+background: url(images/balloon.png);
+top:164px;
+line-height:14px;
+color: #fff;
+font-size:12px;
+overflow: hidden;
+display:none;
+border-top:1px solid #000;
+}
+
+.gnav{ /*style for DIV used to contain toggler links. */
+	width: 100px;
+	height:50px;
+	z-index:150;
+	float:right;
+	padding-right:25px;
+}
+
+.glidecontenttoggler{ /*style for DIV used to contain toggler links. */
+
+	height:38px;
+	z-index:150;
+	width: 670px;
+	background: url(images/gtop.jpg);
+}
+.glidecontenttoggler a{ /*style for every navigational link within toggler */
+	display: -moz-inline-box;
+	display: inline-block;
+	color: #2e6ab1;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.glidecontenttoggler a.selected{ /*style for selected page's toggler link. ".selected" class auto generated! */
+	background: #E4EFFA;
+	color: black;
+}
+
+.glidecontenttoggler a:hover{
+	background: #E4EFFA;
+	color: black;
+}
+
+.glidecontenttoggler a.toc{ /*style for individual toggler links (page 1, page 2, etc). ".toc" class auto generated! */
+}
+
+.glidecontenttoggler a.prev{ /*style for "prev" and "next" toggler links. ".prev" and ".next" classes auto generated! */
+	top:6px;
+	right:35px;
+	position:absolute;
+	display:block;
+	background:url(images/left.jpg) bottom;
+	width:36px;
+	height:25px;
+}
+.glidecontenttoggler a.next {
+	float:right;
+	display:block;
+	background:url(images/right.jpg) bottom;
+	width:36px;
+	height:25px;
+	position:absolute;
+	top:6px;
+	right:5px;
+}
+
+
+
+	
+.banner{
+	margin: 0px 0 5px 0;
+	padding: 0px 0 5px 0px;
+	width:315px;
+	background:url(images/banner.jpg) repeat-y;
+	float:left;
+
+}
+.banner ul {
+   	 margin: 0px 0px;
+	 padding: 0px 0px;
+	 overflow: auto;
+	 
+}
+
+.banner ul li{
+        
+        list-style:none;
+
+}
+	 
+.banner ul li img {
+	height:90px;
+	width:150px;
+	margin: 5px 0px 0px 5px;
+	padding:0px 0px;
+	list-style:none;
+	display : block;
+	display:inline;
+	float:left;
+	background:#fff;
+}
+
+
+.banner li a:link, .banner li a:visited {
+	text-decoration: none;
+}	
+
+#scroller_container{
+position: relative; /*leave this value alone*/
+overflow: scroll; /*leave this value alone*/
+width: 990px;
+height: 60px; /*Height should enough to fit largest content's height*/
+margin: 0px  0px 10px 0px ;
+background:#F7F1EE;
+}
+
+.panel h3{
+	margin: 0px 0 0px 0;
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+	font-size:14px;
+	height:18px;
+	font-family:Georgia,Century gothic,verdana, Arial,  sans-serif;
+	overflow:hidden;
+
+}
+.panel h3 a:link, .panel h3 a:visited{
+	color:#111;
+}
+.panel {
+	
+	width: 240px;
+	float:left;
+	margin: 5px 10px 0px 0px;
+	padding:5px 0 0 5px;
+	display:inline;
+	background:url(images/featl.jpg);
+	color:#222;
+	font-family:Georgia,century gothic,Arial,verdana, sans-serif;
+}
+
+
+.panel p{
+	margin:0px 0px;
+	padding:0 0;
+	color:#333;
+	font-size:11px;
+}
+
+.panel img{
+	margin:0px 5px 0px 0px;
+	padding:3px 3px;
+	float:left;
+	background:#fff;
+	border:1px solid #DDD8D5;
+}
